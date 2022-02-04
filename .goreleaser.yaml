@@ -36,6 +36,6 @@ brews:
     description: "Hello world program"
     tap:
       owner: daniel-zahariev
-      name: homebrew-tap
+      name: homebrew-tools
     folder: Formula
 
