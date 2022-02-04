@@ -30,3 +30,9 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
+brews:
+  - name: godan
+    homepage: https://github.com/daniel-zahariev/homebrew-tap
+    tap:
+      owner: daniel-zahariev
+      name: homebrew-tools
