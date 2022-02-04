@@ -32,7 +32,10 @@ changelog:
       - '^test:'
 brews:
   - name: godan
-    homepage: https://github.com/daniel-zahariev/homebrew-tap
+    homepage: https://github.com/daniel-zahariev/godan
+    description: "Hello world program"
     tap:
       owner: daniel-zahariev
       name: homebrew-tap
+    folder: Formula
+
